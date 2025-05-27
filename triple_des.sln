@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DES", "DES\DES.csproj", "{2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleDES", "TripleDES\TripleDES.csproj", "{59C1DB3E-C7D7-4E95-873E-940C179F4326}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DES.Tests", "DES.Tests\DES.Tests.csproj", "{F042CFF8-326E-4EA9-92D0-1E5877FC7A68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DES.Tests", "Tests\DES.Tests.csproj", "{F21BC382-ECA4-4614-AE7D-9D2BB3422028}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,9 +32,9 @@ Global
 		{59C1DB3E-C7D7-4E95-873E-940C179F4326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59C1DB3E-C7D7-4E95-873E-940C179F4326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59C1DB3E-C7D7-4E95-873E-940C179F4326}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F042CFF8-326E-4EA9-92D0-1E5877FC7A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F042CFF8-326E-4EA9-92D0-1E5877FC7A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F042CFF8-326E-4EA9-92D0-1E5877FC7A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F042CFF8-326E-4EA9-92D0-1E5877FC7A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F21BC382-ECA4-4614-AE7D-9D2BB3422028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21BC382-ECA4-4614-AE7D-9D2BB3422028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21BC382-ECA4-4614-AE7D-9D2BB3422028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21BC382-ECA4-4614-AE7D-9D2BB3422028}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
