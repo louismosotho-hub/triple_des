@@ -1,4 +1,4 @@
-# Triple DES (3DES) Cipher in C#
+# Triple DES (3DES) CLI
 
 This project is a modular implementation of the Triple DES (3DES) block cipher in C#.  
 It includes:
