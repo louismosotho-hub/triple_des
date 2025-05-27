@@ -18,7 +18,7 @@ triple_des/
 ├── Core/           # Bit/byte utilities, tables, helpers
 ├── DES/            # DES implementation
 ├── TripleDES/      # Triple DES implementation & CLI
-├── DES.Tests/      # xUnit tests for DES and Triple DES
+├── Tests/      # xUnit tests for DES and Triple DES
 ```
 
 ---
@@ -59,7 +59,7 @@ Ciphertext (hex): 8F1D2E3C4B5A6978
 
 ## Running Tests
 
-From the `DES.Tests` directory:
+From the `Tests` directory:
 
 ```sh
 dotnet test
